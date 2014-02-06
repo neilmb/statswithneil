@@ -1,11 +1,12 @@
 title : "Statistics with Dr. Neil"
 
 baseurl: "/statswithneil"
+url: "http://statswithneil.com/"
 
 owner:
     name:           Neil Martinsen-Burrell
     avatar:         bio-photo.jpg
-    bio:            "Describe your self."
+    bio:            "Independent Statistics Educator"
     email:          neilmartinsenburrell@gmail.com
     # Social networking links are used in author-bio sidebar. Update and remove as you like.
     twitter: https://twitter.com/DrNeilMB       
@@ -19,23 +20,18 @@ owner:
 google_plus: https://google.com/+NeilMartinsenBurrell
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        
+bing_verify: E6D1A4E86511139AFB44AFBE1F38C1E0       
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: About Me
+    url: /about.html
+  - title: Services
+    url: /services.html
+  - title: Contact
+    url: /contact.html
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
