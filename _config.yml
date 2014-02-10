@@ -1,7 +1,6 @@
 title : "Statistics with Dr. Neil"
 
-baseurl: "/statswithneil"
-url: "http://statswithneil.com/"
+baseurl: "http://statswithneil.com"
 
 owner:
     name:           Neil Martinsen-Burrell
@@ -9,7 +8,7 @@ owner:
     bio:            "Independent Statistics Educator"
     email:          neilmartinsenburrell@gmail.com
     # Social networking links are used in author-bio sidebar. Update and remove as you like.
-    twitter: https://twitter.com/DrNeilMB       
+    twitter: DrNeilMB       
     facebook:       
     github:         
     linkedin:       
@@ -17,7 +16,7 @@ owner:
     lastfm:         
     tumblr:         
     # For Google Authorship https://plus.google.com/authorship
-google_plus: https://google.com/+NeilMartinsenBurrell
+    google_plus: https://google.com/+NeilMartinsenBurrell
 
 # Analytics and webmaster tools stuff goes here
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
